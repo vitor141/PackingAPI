@@ -1,12 +1,9 @@
 
-# 📦 PackingAPI (.NET 8)
+# PackingAPI 
 
 API de microserviço para empacotar produtos em pedidos usando caixas predefinidas.
 
-## Como rodar com Docker
+#Problemas com o projeto  
 
-```bash
-docker-compose up --build
-```
+Infelizmente não consegui finalizar o projeto por completo e realizar os testes, apenas a lógica do serviço e tentativas de requisições com o banco de dados
 
-Acesse em http://localhost:5000/swagger
